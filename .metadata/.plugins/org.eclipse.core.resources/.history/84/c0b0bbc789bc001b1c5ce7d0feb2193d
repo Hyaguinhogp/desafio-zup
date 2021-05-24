@@ -1,0 +1,5 @@
+package com.hgp.controladordeveiculos.resources;
+
+public class UserResource {
+
+}

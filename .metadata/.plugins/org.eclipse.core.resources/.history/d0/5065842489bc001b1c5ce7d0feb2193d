@@ -1,0 +1,5 @@
+package com.hgp.controladordeveiculos.services;
+
+public class UserService {
+
+}

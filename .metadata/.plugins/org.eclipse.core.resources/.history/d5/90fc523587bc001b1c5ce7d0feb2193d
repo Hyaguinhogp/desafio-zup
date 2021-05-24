@@ -1,0 +1,5 @@
+package com.hgp.controladordeveiculos.entities;
+
+public class User {
+
+}
